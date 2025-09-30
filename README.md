@@ -8,9 +8,10 @@ Objectives:
 - Classify wines into target categories (good/poor)
 - Train with machine learning models: KNN, SVM, LDA
 - Tune the hyperparameters using cross-validation
-- Evaluate models with metrics: Accuracy, Precision, Recall, F1-Score
+- Evaluate models with metrics: accuracy, precision, recall, F1-score
 - Compare their performance
 
 Skills:
 - Python: pandas, sklearn, matplotlib
-- Machine Learning: models' concepts, evaluation methods
+- Machine Learning: KNN, SVM, LDA
+- Evaluation: accuracy, precision, recall, F1-score, confusion matrix
