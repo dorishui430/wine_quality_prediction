@@ -2,7 +2,7 @@
 
 Introduction: This project aims to predict the wine quality based on the wine features.
 
-Dataset: White Wine Quality from Kaggle
+Dataset: White wine quality from Kaggle
 
 Objectives:
 - Classify wines into target categories (good/poor)
